@@ -7,7 +7,7 @@ A minimalist, clean theme for Onion OS emulators like the Miyoo Mini Plus and v4
 1. Put your device's SD card in your computer.
 2. Download the most recent zip file from releases.
 3. Unzip the file.
-4. Place the entire top level folder into your Themes file.
+4. Place the entire top level folder into your Themes folder.
 5. Enjoy!
 
 ## ⁉️ Questions or Feedback
