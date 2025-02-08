@@ -1,3 +1,5 @@
+![Screenshot thumbnail showing examples of what the GamePal OS theme and 3 screens](./GamePal-OS-Dark-Theme-Thumbnail.png)
+
 # GamePal OS Dark Theme for Onion OS
 A minimalist, clean theme for Onion OS emulators like the Miyoo Mini Plus and v4. Inspired by our iOS app called [**GamePal**](https://www.getgamepal.com/), used to track your gaming habits and memories.
 
